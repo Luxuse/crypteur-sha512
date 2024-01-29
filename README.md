@@ -22,6 +22,12 @@ Fonctionnalités
     Crypte les mots de passe en utilisant SHA-512.
     Permet de sauvegarder les mots de passe cryptés dans un fichier.
 
+test on 
+
+*Windows 
+*termux
+*linux
+
 Exemples
 
 python
